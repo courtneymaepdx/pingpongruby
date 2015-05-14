@@ -4,7 +4,7 @@
 
 ## Synopsis
 
-This version of the Ping-Pong test (sometimes referred to instead as [FizzBuzz](http://c2.com/cgi/wiki?FizzBuzzTest) was built by [Courtney Phillips](https://github.com/courtneymaepdx) as part of the Spring 2015 Ruby course curriculum at [Epicodus](https://www.epicodus.com/).
+This version of the Ping-Pong test (sometimes referred to instead as [FizzBuzz](http://c2.com/cgi/wiki?FizzBuzzTest)) was built by [Courtney Phillips](https://github.com/courtneymaepdx) and [Leroi Dejesa](https://github.com/leroidejesa) as part of the Spring 2015 Ruby course curriculum at [Epicodus](https://www.epicodus.com/).
 
 ## Contact
 
